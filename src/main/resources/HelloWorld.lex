@@ -1,0 +1,25 @@
+%All words used are valid english words.
+amowt
+forward
+axwort
+forward
+brownwort
+forward
+churrus
+forward
+armoury
+e
+cit
+ea
+cestus
+forward
+armoury
+forward
+apyrexy
+ed
+churrus
+forward
+blutwurst
+forward
+clr
+valid
