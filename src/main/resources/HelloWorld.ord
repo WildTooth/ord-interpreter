@@ -1,0 +1,79 @@
+# This is essentially a comment in ord. The thing about ord is that comments are not really supported, but can be
+# simulated by making a line contain an unrecognized word. The easiest way to do this is by using a non a-z character
+# at the start of the line, e.g. a #.
+
+# The following program prints "Hello, World!" to the console. This is not necessarily the most efficient way
+# nor the easiest. This is just an example of how the ord language can be used to achieve this, while showing off
+# some of the features of the language.
+
+# Increases memory cell value (by 72)
+amowt
+
+# Moves pointer forward by 1
+forward
+
+# Increases memory cell value (by 101)
+axwort
+
+# Moves pointer forward by 1
+forward
+
+# Decreases memory cell value (by 148)
+brownwort
+
+# Moves pointer forward by 1
+forward
+
+# Sets current memory cell to a value (of 108)
+churrus
+
+# Moves pointer forward by 1
+forward
+
+# Increases memory cell value (by 111)
+armoury
+
+# Moves pointer (to the fifth cell)
+e
+
+# Sets character value (to 32)
+cit
+
+# Moves pointer (to the sixth cell e=5 a=1 e+a=6)
+ea
+
+# Sets character value (to 87)
+cestus
+
+# Moves pointer forward by 1
+forward
+
+# Increases memory cell value (by 111)
+armoury
+
+# Moves pointer forward by 1
+forward
+
+# Increases memory cell value (by 114)
+apyrexy
+
+# Moves pointer (to the ninth cell)
+ed
+
+# Sets character value (to 108)
+churrus
+
+# Moves pointer forward by 1
+forward
+
+# Decreases memory cell value (by 156)
+blutwurst
+
+# Moves pointer forward by 1
+forward
+
+# Sets character value (to 33)
+clr
+
+# Outputs all the stored values as ASCII characters
+valid
